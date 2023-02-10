@@ -5,6 +5,7 @@ Bookshop is a virtual online bookstore application through which you can find bo
 You can perform CRUD operations such as viewing book details, adding and deleting ratings, editing book inventory, etc.
 
 > Powered by TiDB Cloud, Prisma and Vercel.
+>
 
 ## 🔥 Visit Live Demo
 
